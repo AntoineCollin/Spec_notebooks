@@ -1,0 +1,51 @@
+gene,Unnamed: 0,selection_ranking,selection,AW/Par,pca_gene,tree_gene,list_marker,marker,spe_type_Barbry,max_celltype_barbry,spe_type_Meyer,max_celltype_meyer
+HLA-DRA,0,1,True,shared,True,"Myeloid,Mast cells,Pericytes,Deuterosomal,Mucous SMG",none,Myeloid,equirep,Dendritic,equirep,DC_1
+AREG,1,1,True,shared,True,"Club,Mast cells",none,Mast cells,multi-spec,Monocyte,low,DC_plasmacytoid
+IFITM1,2,1,True,shared,True,"(Vascular) Endothelial cell,Lymphatic EC",none,(Vascular) Endothelial cell,low,Endothelial,low,NK
+CST3,3,1,True,shared,True,"Lymphocyte,Myeloid,Chondrocytes",none,"Chondrocytes,Myeloid",equirep,Dendritic,high,DC_1
+S100A4,4,1,True,shared,True,"(Vascular) Endothelial cell,Basal,Myeloid",none,Myeloid,equirep,Secretory N,equirep,Monocyte
+S100A9,5,1,True,shared,True,Myeloid,none,Myeloid,multi-spec,Suprabasal N,multi-spec,Basal
+VIM,6,1,True,shared,True,"Basal,Club,Lymphatic EC",none,Lymphatic EC,equirep,Endothelial,equirep,Macrophage_Dividing
+MT1A,7,1,True,shared,True,Pericytes,none,Pericytes,multi-spec,Pericyte,multi-spec,Fibroblast
+TPSAB1,8,1,True,shared,True,Mast cells,none,Mast cells,unique,Mast cells,unique,Mast_cells
+IGFBP7,9,1,True,shared,True,"Lymphatic EC,Myeloid,Pericytes,Duct SMG,Goblet",none,"Lymphatic EC,Pericytes",low,Pericyte,multi-spec,Muscle_cells
+RNASE1,10,1,True,shared,True,"(Vascular) Endothelial cell,Basal,Club,Lymphocyte,Duct SMG",none,"(Vascular) Endothelial cell,Club,Duct SMG",multi-spec,AT1,multi-spec,Macrophage_MARCOneg
+CXCR4,11,1,True,shared,True,"Lymphocyte,Mast cells",none,Lymphocyte,multi-spec,Monocyte,equirep,T_CD4
+RPS17,12,1,True,shared,True,Club,none,Club,,,,B_cell_naive
+FOS,13,1,True,shared,True,Basal,none,Basal,multi-spec,Monocyte,equirep,DC_Monocyte_Dividing
+GNLY,14,1,True,shared,True,Lymphocyte,none,Lymphocyte,unique,LT/NK,multi-spec,NK
+TPSB2,15,1,True,shared,True,Mast cells,none,Mast cells,unique,Mast cells,unique,Mast_cells
+APOE,16,1,True,shared,True,"Myeloid,Pericytes",none,"Myeloid,Pericytes",high,Macrophage,multi-spec,Macrophage_MARCOpos
+CALD1,17,2,True,shared,False,"Pericytes,Smooth muscle",none,"Pericytes,Smooth muscle",multi-spec,Pericyte,high,Muscle_cells
+CYB5A,18,2,True,shared,False,"Club,Mucous SMG",none,Club,equirep,AT2,multi-spec,Secretory_club
+S100A2,19,2,True,shared,False,"Basal,Lymphocyte,Multiciliated,Fibroblast (collapsed)",none,Basal,multi-spec,Cycling Basal,unique,Basal
+CYP2F1,20,2,True,shared,False,none,Club,Club,multi-spec,Secretory,unique,Secretory_club
+PBK,21,2,True,shared,False,none,Cycling,Cycling,unique,Cycling Basal,multi-spec,NK_Dividing
+CFD,22,2,True,shared,False,Fibroblast (collapsed),none,Fibroblast (collapsed),multi-spec,Macrophage,high,Fibroblast
+FHOD3,23,2,True,AW,False,none,Myoepithelial cell,Myoepithelial cell,multi-spec,Multiciliated,multi-spec,Ciliated
+CDC20B,24,2,True,AW,False,Deuterosomal,none,Deuterosomal,unique,Deuterosomal,equirep,DC_Monocyte_Dividing
+NREP,25,2,True,shared,False,none,Undefined rare cell,Undefined rare cell,high,Precursor,equirep,DC_plasmacytoid
+MMRN1,26,2,True,shared,False,Lymphatic EC,none,Lymphatic EC,unique,Endothelial,unique,Lymph_vessel
+CAPS,27,2,True,shared,False,"Multiciliated,Goblet",none,Multiciliated,multi-spec,Multiciliated,unique,Ciliated
+PLD5,28,2,True,AW,False,none,Myoepithelial cell,Myoepithelial cell,,,,Macrophage_MARCOneg
+RGS5,29,2,True,shared,False,none,Pericytes,Pericytes,unique,Pericyte,high,Muscle_cells
+DCN,30,2,True,shared,False,Fibroblast (collapsed),none,Fibroblast (collapsed),high,Fibroblast,unique,Fibroblast
+ACAN,31,2,True,AW,False,Chondrocytes,none,Chondrocytes,,,,Muscle_cells
+ZG16B,32,2,True,AW,False,"Duct SMG,Serous SMG",none,"Duct SMG,Serous SMG",high,Serous,high,Secretory_club
+VWF,33,2,True,shared,False,"(Vascular) Endothelial cell,Club",none,(Vascular) Endothelial cell,unique,Endothelial,unique,Blood_vessel
+MKI67,34,2,True,shared,False,none,Cycling,Cycling,unique,Cycling Basal,multi-spec,T_cells_Dividing
+LCN2,35,2,True,AW,False,"Duct SMG,Goblet,Serous SMG",none,"Duct SMG,Goblet,Serous SMG",low,Secretory,high,Secretory_club
+LTF,36,2,True,AW,False,"Duct SMG,Goblet,Serous SMG",none,"Duct SMG,Serous SMG",high,Serous,unique,Secretory_club
+TAGLN,37,2,True,shared,False,"Pericytes,Smooth muscle",none,"Pericytes,Smooth muscle",multi-spec,Smooth muscle,unique,Muscle_cells
+TFF3,38,2,True,shared,False,"(Vascular) Endothelial cell,Basal,Lymphatic EC,Goblet,Mucous SMG,Serous SMG",none,"Goblet,Lymphatic EC,Mucous SMG",low,SMG Goblet,multi-spec,Lymph_vessel
+MUC5B,39,2,True,AW,False,"Duct SMG,Mucous SMG",none,"Duct SMG,Mucous SMG",high,SMG Goblet,unique,Secretory_club
+MUC5AC,40,2,True,AW,False,none,Goblet,Goblet,multi-spec,Secretory N,unique,Secretory_club
+FOSB,41,2,True,shared,False,"Fibroblast (collapsed),Mucous SMG",none,Mucous SMG,multi-spec,Monocyte,low,Mast_cells
+IL7R,42,3,True,shared,True,(Vascular) Endothelial cell,none,none,multi-spec,Monocyte,multi-spec,T_CD4
+KRT15,43,3,True,AW,False,Serous SMG,none,none,high,Basal,unique,Basal
+RGCC,44,3,True,shared,True,"Smooth muscle,Fibroblast (collapsed)",none,none,equirep,Monocyte,equirep,Blood_vessel
+SRGN,45,3,True,shared,True,"Multiciliated,Fibroblast (collapsed)",none,none,low,Mast cells,equirep,Monocyte
+LGALS1,46,3,True,shared,True,Club,none,none,equirep,Monocyte,equirep,Fibroblast
+RPS29,47,3,True,shared,True,"Multiciliated,Smooth muscle",none,none,,,,B_cell_mature
+HSPA1A,48,3,True,shared,True,Deuterosomal,none,none,equirep,Multiciliated,equirep,Mast_cells
+MT-ATP8,49,3,True,shared,True,Multiciliated,none,none,,,,Monocyte

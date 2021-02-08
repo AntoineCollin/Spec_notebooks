@@ -1,7 +1,22 @@
 # Heavy data
 /data/
+/All_in_All.csv
+/Barb_in_Meyer.csv
+/All_in_Meyer.csv
+/Gene_Meyer_Barbry_comparison.xlsx
+/MarqueurDiff_MeyerVsBarbry.pptx
+/Meyer_Celltype_marker_vs_dataset.xlsx
+/Meyer_Celltype_marker_vs_dataset revu PB.xlsx
+/Meyer_in_Meyer.csv
+/new_genes.csv
+/SCRINSHOT_AW_Parenchyme_Specificity_Meyer_Barbry.csv
+/SCRINSHOT_genes_overview February 4th Louis - specificity added.xlsx
+/SCRINSHOT_AW_Wall_Specificity_Meyer_Barbry.csv
+/spec_all_genes_Barbry_Meyer.csv
+
 
 # Some viz
 /subclustering_draft/
 /deprez_markers_vs_datasets/
 /Spec_analysis_hand
+/genes_keep_red.png

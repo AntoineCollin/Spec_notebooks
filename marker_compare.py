@@ -59,6 +59,16 @@ def df_to_dict(gene_df):
         gene_dict[col] = list(gene_df[col].dropna())
     return gene_dict
 
+def dict_to_df(gene_dict):
+    """
+    Transform a gene marker by CT dict into a df with lots of Nan
+
+    :param gene_dict:
+    :return:
+    """
+
+
+
 Markers_Meyer_CT_Deprez = df_to_dict(Markers_Meyer_CT_Deprez_df)
 
 def compare(genes1,genes2):
