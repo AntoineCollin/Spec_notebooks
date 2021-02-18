@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72a7a44f-ada9-4510-b8f0-1f9578b6855d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Spec types-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/.ipynb_checkpoints/Spec types-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/Specificity_viz-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Spec types.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Spec types.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Specificity_viz.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/marker_compare.py" beforeDir="false" afterPath="$PROJECT_DIR$/marker_compare.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spec_Validation/.ipynb_checkpoints/DE_Compare-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Spec_Validation/.ipynb_checkpoints/DE_Compare-checkpoint.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spec_Validation/DE_Compare.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Spec_Validation/DE_Compare.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Specificity_viz-Meyer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Specificity_viz-Meyer.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Specificity_viz_Discovair.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Specificity_viz_Discovair.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/explore_datasets.py" beforeDir="false" afterPath="$PROJECT_DIR$/explore_datasets.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
