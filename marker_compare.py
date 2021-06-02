@@ -41,6 +41,7 @@ Markers_Meyer = load_obj('Markers_Meyer')
 Markers_Barbry = load_obj('Marker_Genes_HCA')
 Markers_Meyer_CT_Deprez_df = pd.read_csv(r'C:\Users\ipmc\Documents\Metrics_results\data\Markers_Meyer_CT_Deprez.csv',sep=';')
 
+
 def df_to_dict(gene_df):
     """
     Transform a gene marker by CT df into a dict
@@ -58,6 +59,7 @@ def df_to_dict(gene_df):
     for col in gene_df.columns:
         gene_dict[col] = list(gene_df[col].dropna())
     return gene_dict
+
 
 def dict_to_df(gene_dict):
     """

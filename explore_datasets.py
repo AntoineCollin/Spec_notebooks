@@ -18,9 +18,6 @@ DATA_PATH = r'data/'
 trav_count = pd.read_csv(DATA_PATH + 'krasnow_hlca_10x_UMIs.csv')
 trav_meta = pd.read_csv(DATA_PATH + 'krasnow_hlca_10x_metadata.csv')
 
-trav_count
-travigliani = anndata.AnnData(X = trav_count[], obs = trav_meta, var = trav_count.columns)
-
 full_data_dict_path = {'lukassen_par': 'lukassen20_lung_orig.processed.h5ad',  # parenchyma
                        'lukassen_AW': 'lukassen20_airway_orig.processed.h5ad',  # bronchi, epithelial
                        'madissoon': 'madissoon19_lung.processed.h5ad',
